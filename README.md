@@ -29,7 +29,7 @@ $ source venv/bin/activate
 $ pip install flask flask-jsonpify flask-sqlalchemy flask-restful
 $ pip freeze
 
-Screen Shot 2017-02-13 at 11.23.35.png
+
 
 Let's create the basic GET API
 
